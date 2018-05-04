@@ -1,7 +1,7 @@
 # lab-cv
-Compilacion de C++ para OpenCV:
-$ g++ [archivo].cpp -o [binario] `pkg-config --cflags --libs opencv`
+Compilación de codigo fuente de C++ para OpenCV:<br />
+$ g++ [archivo].cpp -o [binario] `pkg-config --cflags --libs opencv` 
 
-donde: 
-[archivo] sera el nombre del archivo trabajado,
+donde:<br />
+[archivo] sera el nombre del archivo trabajado,<br />
 [binario] sera el nombre del ejecutable
