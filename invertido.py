@@ -14,3 +14,4 @@ cv2.imshow('vertical', vertical)
 cv2.imshow('ambos', ambos)
 
 cv2.waitKey(0)
+cv2.destroyAllWindows()
